@@ -81,12 +81,12 @@ export default function Portfolio() {
     },
     {
       id: 6,
-      title: "Invitation cover poster",
-      category: "Anniversary Invitation",
-      image: "/invitation page main.jpg?height=500&width=400",
-      description: "Elegant & classic, reader-friendly and visually organized 25th wedding anniversary invitation cover poster",
+      title: "V2S Arts & Sports Academy – Promotional Poster",
+      category: "Advertising Design",
+      image: "/v2s poster portfolio.jpg?height=500&width=400",
+      description: "A vibrant promotional poster for V2S Arts & Sports Academy, showcasing their diverse arts and sports programs with bold visuals & clear information",
       year: "2025",
-      client: "Carlin's Aari Paradise",
+      client: "Arun",
     },
     {
       id: 9,

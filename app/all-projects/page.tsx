@@ -287,17 +287,17 @@ const projects = [
     client: "Ashraf",
     description: "A romantic poster with warm tones, vintage style, and emotional tension, visually expressing unspoken love through soft design and layout.",
   },
-  // {
-  //   id: 25,
-  //   title: "Sepia Remembrance Poster",
-  //   categories: ["Posters"],
-  //   media: [
-  //     { type: "image", src: "/thatha-another-image.png" },
-  //   ],
-  //   year: "2020",
-  //   client: "Timo Jacob",
-  //   description: "A heartfelt memorial poster, blending sepia tones and cherished photo collage to reflect a legacy of love.",
-  // },
+  {
+    id: 25,
+    title: "V2S Arts & Sports Academy – Promotional Poster",
+    categories: ["Posters"],
+    media: [
+      { type: "image", src: "/v2s poster portfolio.jpg" },
+    ],
+    year: "2025",
+    client: "Arun",
+    description: "A vibrant promotional poster for V2S Arts & Sports Academy, showcasing their diverse arts and sports programs with bold visuals & clear information.",
+  },
   {
     id: 26,
     title: "Horror Thriller poster",
