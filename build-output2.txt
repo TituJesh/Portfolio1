@@ -1,0 +1,7 @@
+
+> my-v0-project@0.1.0 build E:\Titu_jesh portfolio
+> next build
+
+'next' is not recognized as an internal or external command,
+operable program or batch file.
+ ELIFECYCLE  Command failed with exit code 1.
